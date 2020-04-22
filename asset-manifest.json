@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pussyQuotes/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/pussyQuotes/static/js/main.8e1bea0d.chunk.js",
+    "main.js.map": "/pussyQuotes/static/js/main.8e1bea0d.chunk.js.map",
+    "runtime-main.js": "/pussyQuotes/static/js/runtime-main.b496eb30.js",
+    "runtime-main.js.map": "/pussyQuotes/static/js/runtime-main.b496eb30.js.map",
+    "static/css/2.a72c35d3.chunk.css": "/pussyQuotes/static/css/2.a72c35d3.chunk.css",
+    "static/js/2.6bbca85c.chunk.js": "/pussyQuotes/static/js/2.6bbca85c.chunk.js",
+    "static/js/2.6bbca85c.chunk.js.map": "/pussyQuotes/static/js/2.6bbca85c.chunk.js.map",
+    "index.html": "/pussyQuotes/index.html",
+    "precache-manifest.b1b5f998d35191e6a404ab15b1caa1da.js": "/pussyQuotes/precache-manifest.b1b5f998d35191e6a404ab15b1caa1da.js",
+    "service-worker.js": "/pussyQuotes/service-worker.js",
+    "static/css/2.a72c35d3.chunk.css.map": "/pussyQuotes/static/css/2.a72c35d3.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/pussyQuotes/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.6bbca85c.chunk.js.LICENSE.txt": "/pussyQuotes/static/js/2.6bbca85c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b496eb30.js",
+    "static/css/2.a72c35d3.chunk.css",
+    "static/js/2.6bbca85c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.8e1bea0d.chunk.js"
+  ]
+}
